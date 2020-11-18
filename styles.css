@@ -1,4 +1,5 @@
 h1{font-family: 'Julius Sans One', sans-serif;
+    text-align: center;
 }
 nav{font-family: 'Julius Sans One', sans-serif;
     font-size: 25px;
@@ -14,3 +15,8 @@ body{background-color: #BDE6E3;
 .logo{width:10%;}
 
 bryne2{width:50%}
+
+.me{float: right;
+    width:100%;}
+
+p{font-size: 25px;}
