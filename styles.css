@@ -1,9 +1,13 @@
-h1{font-family: 'Vollkorn', serif;}
-nav{font-family: 'Vollkorn', serif;
-    }
-.main{padding-right: 50px;
-    padding-left:50px;
-    padding-top:50px;}
-.bryne{
-    padding-bottom: 50px;
+h1{font-family: 'Julius Sans One', sans-serif;
 }
+nav{font-family: 'Julius Sans One', sans-serif;
+    font-size: 25px;
+    }
+.main{padding-right: 80px;
+    padding-left:80px;
+    padding-top:50px;}
+
+body{background-color: #BDE6E3;}
+.logo{width:10%;}
+
+bryne2{width:50%}
