@@ -6,11 +6,13 @@ nav{font-family: 'Julius Sans One', sans-serif;
     }
 .main{padding-right: 80px;
     padding-left:80px;
-    padding-top:50px;}
+    padding-top:50px;
+padding-bottom:50px;}
 
 body{background-color: #BDE6E3;
         background-image: url(images/back.jpg);
         background-repeat: no-repeat;
+
         }
 .logo{width:10%;}
 
@@ -20,3 +22,12 @@ bryne2{width:50%}
     width:100%;}
 
 p{font-size: 25px;}
+
+footer{padding: 20px;}
+
+section{padding:20px;}
+
+.call{padding:10px;}
+.email{padding: 10px;}
+
+card{padding:15px;}
